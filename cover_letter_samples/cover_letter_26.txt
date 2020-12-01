@@ -1,0 +1,15 @@
+With almost 3 years of experience in full-stack web development and system architecture. I am confident, I will be an excellent fit for the company's next yourtitle. 
+
+At yourcompany, I am responsible for leading the development of brand new .NET Core based CMS that offers users powerful functionalities for managing content. I gain experience in building and maintaining innovative applications with .NET Stack, .NET Core, HTML5, CSS, JavaScript/React, SQL, Azure, and others. I was working on different types of software products like WPF, designing custom REST APIs and ASP.NET and ASP.NET core apps.
+
+I have refined my strengths through three years of experience in software development. The following is a snapshot of my technical skills:
+
+Web applications
+Database programming
+Unit and Integration testing
+Object-oriented programming and design patterns
+
+It would be a pleasure to learn more about <company> needs, and I would welcome the chance to provide further insight into my knowledge of technical abilities, personal attributes, and experience in building applications compatible across multiple platforms, browsers and devices.
+
+Thank you for considering my candidacy for this position. I hope to hear from you soon to schedule an interview.
+

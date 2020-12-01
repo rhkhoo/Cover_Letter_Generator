@@ -1,0 +1,11 @@
+In my search for a new challenge where I can leverage my knowledge in yourmajor, I was pleased to find yourcompany opening for a yourtitle role and I believe my recent training and experience in data processing closely match your requirements.
+
+During yourschool, I learned the principles of Machine learning, advanced Python programming, SQL, Data Pipelines, Databases like MongoDB, PostgreSQL, and much more. I was most interested in designing Data Pipelines and NLP. Hence, for my final project, I designed a Dockerized Data Pipeline to ingest data from Instagram and classify the sentiment of the posts with cutting edge NLP techniques such as BERT and SpaCy and finally loads them into AWS RDS PostgreSQL for further analysis. I believe that designing and deploying NLP models for executing the ETL jobs in such a structure match the required skills of this role.
+
+I understand that for this position knowledge of big data frameworks and job orchestrators is required, which I also have experience in both. I built a Data Pipeline with an ETL job running on Airflow to extract tweets and load them to a PostgreSQL database and I completed a Udemy course on Spark and Python for Big Data with PySpark. 
+
+In addition to my yourmajor expertise, I have an accomplished background in yourtitle where I worked for 8 years. I have acquired outstanding analytical, problem-solving, and communication skills by publishing 11 scientific articles and presenting my research at international conferences. I would like to mention that I am aware that this is a Junior role and despite the fact that I have many years of experience in academia I am willing to start as a Junior in this field. I would gladly discuss further about my motives for changing my career direction in the interview.
+
+yourcompany appeals to me as the perfect company to start my Data career because of its revolutionary goal for creating such a platform for analyst freelancers to help businesses reach their goals. Also, I'm sure that yourcompany data team with experienced scientists and engineers enables me to hone my skills and allow me to contribute to the future success of the company.
+
+I would welcome the opportunity to have an interview and discuss further and I look forward to hearing from you! 

@@ -1,0 +1,15 @@
+I am a yourtitle seeking employment for yourcompany. 
+
+I have experience building Full-Stack Web Applications and RESTful API's using languages and frameworks including Rails/Ruby, Node/JS, and Flask/Python. 
+
+I am proficient with relational databases such as PostgreSQL and document databases including MongoDB. I have a strong understanding of fundamental CS concepts like Object Oriented Programming, MVC Architecture, REST, and Test Driven Development as well as experience building software with more modern techniques like GraphQL, service based architecture, and third party API integration. 
+
+As a team member, I bring strong git workflow practices and experience using agile methodologies to build software in a collaborative environment.
+
+Before making a career change, I owned and operated a Stone Masonry business where I was responsible for all of phases of a project including working with clients on design and delivering a finished product on time.
+
+I love the excitement of working in a faced paced environment and am very adaptable to change.
+
+As a candidate, I possess the skills necessary to make meaningful contributions upon joining a team.
+
+Thank you for considering my application and I look forward to hearing from you.
